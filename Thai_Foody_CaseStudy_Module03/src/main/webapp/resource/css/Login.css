@@ -1,0 +1,97 @@
+
+
+body {
+     /*background-image:url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700836304.jpg");*/
+    background-image:url("https://wallpapers.com/images/featured/ccsaubvss63lkcyb.jpg");
+    background-size: auto;
+
+}
+.thai{
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+    display: flex;
+    overflow: hidden;
+}
+.card{
+    width: 400px;
+    height: 450px;
+    border:none;
+}
+
+.btr{
+    border-top-right-radius: 5px !important;
+}
+
+
+.btl{
+
+    border-top-left-radius: 5px !important;
+}
+
+.btn-dark {
+    color: #fff ;
+    background-color: #0d6efd ;
+    border-color: #0d6efd ;
+}
+
+
+.btn-dark:hover {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+
+.nav-pills{
+
+    display:table !important;
+    width:100%;
+}
+
+.nav-pills .nav-link {
+    border-radius: 0;
+    border-bottom: 1px solid #0d6efd40;
+
+}
+
+.nav-item{
+    display: table-cell;
+    background: #0d6efd2e;
+}
+
+.form{
+
+    padding: 10px;
+    height: 300px;
+}
+
+.form input{
+
+    /* margin-bottom: 12px; */
+    margin-bottom: 22px;
+    border-radius: 3px;
+}
+
+
+.form input:focus{
+
+    box-shadow: none;
+}
+
+
+.form button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.string {
+    text-align: center;
+    margin-top: 70px;
+}
+p {
+    text-align: center;
+}
+
+
+
